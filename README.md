@@ -3,6 +3,14 @@
     <a href="https://github.com/ChinOudom19"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+there+👋;+I'm+Chin+Oudom+🍀;+I'm+from+Cambodia+💓"></a>
 </p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="center">
    <a href="https://github.com/ChinOudom19"><img src="https://komarev.com/ghpvc/?username=ChinOudom19"></a>
 </p>
