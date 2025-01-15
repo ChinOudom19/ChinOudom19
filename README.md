@@ -6,18 +6,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ChinOudom19">
+    <a href="https://github.com/LeangHuy">
         <picture>
-            <!-- For dark mode -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChinOudom19/ChinOudom19/outputs/github-contribution-grid-snake-dark.svg">
-            <!-- For light mode -->
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChinOudom19/ChinOudom19/outputs/github-contribution-grid-snake.svg">
-            <!-- Default image if no color scheme is detected -->
-            <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/ChinOudom19/ChinOudom19/outputs/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/outputs/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/outputs/github-contribution-grid-snake.svg">
+            <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/LeangHuy/LeangHuy/outputs/github-contribution-grid-snake-dark.svg">
         </picture>
     </a>
 </p>
-
 
 <p align="center">
    <a href="https://github.com/ChinOudom19"><img src="https://komarev.com/ghpvc/?username=ChinOudom19"></a>
