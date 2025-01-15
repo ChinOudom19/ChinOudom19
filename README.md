@@ -4,16 +4,6 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ChinOudom19">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChinOudom19/ChinOudom19/output/dist/github-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChinOudom19/ChinOudom19/output/dist/github-snake.svg">
-            <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/ChinOudom19/ChinOudom19/output/dist/ocean.gif">
-        </picture>
-    </a>
-</p>
-
-<p align="center">
    <a href="https://github.com/ChinOudom19"><img src="https://komarev.com/ghpvc/?username=ChinOudom19"></a>
 </p>
 
