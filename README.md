@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ChinOudom19"><img src="https://komarev.com/ghpvc/?username=ChinOudom19"><a/>
+   <a href="https://github.com/ChinOudom19"><img src="https://komarev.com/ghpvc/?username=ChinOudom19"></a>
 </p>
 
 <h2 align="center">⚒️ Languages-Skills ⚒️</h2>
