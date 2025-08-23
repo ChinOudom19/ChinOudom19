@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=39FF14&center=true&width=600&lines=Hi+there+👋;I'm+Chin+Oudom+🍀;From+Cambodia+💓;Aspiring+DevOps+Engineer+🚀;Fullstack+Developer+🌐" alt="Typing SVG" />
   </a>
 </p>
+
 <!-- Snake Contribution Animation -->
 <p align="center">
   <a href="https://github.com/ChinOudom19">
