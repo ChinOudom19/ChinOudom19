@@ -1,7 +1,10 @@
 <!-- # Hi there 👋 -->
 <p align="center">
-    <a href="https://github.com/ChinOudom19"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+there+👋;+I'm+Chin+Oudom+🍀;+I'm+from+Cambodia+💓"></a>
+  <a href="https://github.com/ChinOudom19">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=Hi+there+👋;I'm+Chin+Oudom+🍀;From+Cambodia+💓;Aspiring+DevOps+Engineer+🚀;Fullstack+Developer+🌐">
+  </a>
 </p>
+
 <p align="center">
     <a href="https://github.com/LeangHuy">
         <picture>
@@ -22,13 +25,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind" /><br>
   
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,php,laravel,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql" /><br>
   
   <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,idea,eclipse,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,git,github,vscode,idea,swagger,postman" /><br>
   
   <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,notion,vercel,npm,pnpm" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,npm,pnpm" />
 </div>
 
 
