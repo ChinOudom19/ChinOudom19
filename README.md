@@ -21,27 +21,21 @@
 </p>
 
 ---
-
+<div align="center">
 ## ⚒️ Languages & Skills ⚒️
-
+</div>
 <div align="center">
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind" /><br>
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres" /><br>
+<!-- Full-stack -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,mysql,postgres,figma,node,npm,pnpm" /><br>
 
 <!-- DevOps & Tools -->
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,helm,jenkins,ansible,git,github,gitlab,vscode,idea,postman" /><br>
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,jenkins,ansible,git,github,gitlab,vscode,idea,postman" /><br>
 
 <!-- Extra Badges (not on skillicons) -->
 <img src="https://img.shields.io/badge/ArgoCD-%230072C6.svg?&style=for-the-badge&logo=argo&logoColor=white" />
 <img src="https://img.shields.io/badge/Nexus-%233FA037.svg?&style=for-the-badge&logo=sonatype&logoColor=white" />
 <img src="https://img.shields.io/badge/SonarQube-%230066CC.svg?&style=for-the-badge&logo=sonarqube&logoColor=white" /><br>
-
-<!-- Others -->
-<img src="https://skillicons.dev/icons?i=figma,node,npm,pnpm" />
 
 </div>
 
