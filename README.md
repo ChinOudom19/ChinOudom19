@@ -28,7 +28,7 @@
 ---
 
 ### 💻 Full-Stack
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,node,mysql,postgres" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,mysql,postgres" /><br>
 <sub>
 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind  
 **Backend:** Java, Spring Boot, Node.js  
@@ -50,14 +50,25 @@
 ---
 
 ### ⚡ Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,photoshop" /><br>
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman" /><br>
 <sub>
 **IDEs / Editors:** VSCode, IntelliJ IDEA  
-**Design & Prototyping:** Figma, Photoshop  
+**Design & Prototyping:** Figma 
 **API Testing:** Postman  
-**Other Tools:** Portainer, Swagger
+**Other Tools:** Portainer
 </sub>
 
+---
+
+### ⚡ Extra DevOps / Badges
+<img src="https://img.shields.io/badge/ArgoCD-%230072C6.svg?&style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Nexus-%233FA037.svg?&style=for-the-badge&logo=sonatype&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-%230066CC.svg?&style=for-the-badge&logo=sonarqube&logoColor=white" /><br>
+<sub>
+**ArgoCD:** GitOps deployment  
+**Nexus:** Artifact repository management  
+**SonarQube:** Code quality & static analysis
+</sub>
 </div>
 ---
 
