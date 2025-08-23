@@ -21,46 +21,88 @@
 </p>
 
 ---
-<h1 align="center">
-## ⚒️ Languages & Skills ⚒️
-</h1>
+<h1 align="center">⚒️ Languages & Skills ⚒️</h1>
 
 <div align="center">
 
-<!-- 💻 Full-stack / Programming Languages -->
-<h3>💻 Full-stack / Programming Languages</h3>
+---
+
+### 💻 Full-stack / Programming Languages
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,figma,npm,pnpm,java,spring,mysql,postgres,node" /><br>
 <sub>
-Frontend: HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind, Figma  
-Backend: Java, Spring, Node.js  
-Database: MySQL, PostgreSQL  
-Package Managers / Tools: npm, pnpm
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind, Figma  
+**Backend:** Java, Spring Boot, Node.js  
+**Database:** MySQL, PostgreSQL  
+**Package Managers / Tools:** npm, pnpm
 </sub>
-<br>
 
-<!-- 🛠 DevOps & Tools -->
-<h3>🛠 DevOps & Tools</h3>
+---
+
+### 🛠 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,jenkins,ansible,git,github,gitlab,vscode,idea,postman,portainer" /><br>
 <sub>
-OS / Servers: Linux, Nginx  
-Containerization / Orchestration: Docker, Kubernetes, Portainer  
-CI/CD / Automation: Jenkins, Ansible  
-Version Control: Git, GitHub, GitLab  
-IDEs / Tools: VSCode, IntelliJ IDEA, Postman
+**OS / Servers:** Linux, Nginx  
+**Containerization / Orchestration:** Docker, Kubernetes, Portainer  
+**CI/CD / Automation:** Jenkins, GitHub Actions, GitLab CI, Webhooks, Ansible  
+**Version Control:** Git, GitHub, GitLab  
+**IDEs / Tools:** VSCode, IntelliJ IDEA, Postman
 </sub>
-<br>
 
-<!-- ⚡ Extra DevOps / Badges -->
-<h3>⚡ Extra DevOps / Badges</h3>
+---
+
+### ⚡ Extra DevOps / Badges
 <img src="https://img.shields.io/badge/ArgoCD-%230072C6.svg?&style=for-the-badge&logo=argo&logoColor=white" />
 <img src="https://img.shields.io/badge/Nexus-%233FA037.svg?&style=for-the-badge&logo=sonatype&logoColor=white" />
 <img src="https://img.shields.io/badge/SonarQube-%230066CC.svg?&style=for-the-badge&logo=sonarqube&logoColor=white" /><br>
 <sub>
-ArgoCD (GitOps), Nexus (Artifact Repository), SonarQube (Code Quality / Static Analysis)
+**ArgoCD:** GitOps deployment  
+**Nexus:** Artifact repository management  
+**SonarQube:** Code quality & static analysis
 </sub>
 
 </div>
 
+---
+
+<details>
+<summary>🔹 DevOps & Deployment</summary>
+
+- Linux (basic commands, Bash scripting)  
+- Docker, Docker Compose, Docker Registry  
+- Kubernetes, Helm, ArgoCD  
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, Webhooks  
+- Configuration & Automation: Ansible  
+- Monitoring & Quality: SonarQube  
+- Reverse Proxy & Repository Management: Nginx, Nexus  
+
+</details>
+
+<details>
+<summary>🔹 Backend Development</summary>
+
+- Java, Spring Boot (REST API development & deployment)  
+- Database Management: PostgreSQL (Dockerized deployment)  
+- API Testing: Postman, Swagger  
+
+</details>
+
+<details>
+<summary>🔹 Frontend Development</summary>
+
+- HTML, CSS, Bootstrap, Tailwind CSS  
+- JavaScript, React.js, Next.js  
+
+</details>
+
+<details>
+<summary>🔹 Design & Collaboration</summary>
+
+- UI/UX Design: Figma  
+- Prototyping & Wireframing  
+- Graphic Design: Photoshop  
+- Version Control: Git, GitHub, GitLab  
+
+</details>
 
 ---
 
