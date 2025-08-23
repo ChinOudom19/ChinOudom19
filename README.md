@@ -27,36 +27,25 @@
 
 ---
 
-### 💻 Full-Stack / Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,mysql,postgres,node" /><br>
+### 💻 Full-stack / Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,figma,npm,pnpm,java,spring,mysql,postgres,node" /><br>
 <sub>
-**Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind  
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind, Figma  
 **Backend:** Java, Spring Boot, Node.js  
-**Database:** MySQL, PostgreSQL
+**Database:** MySQL, PostgreSQL  
+**Package Managers / Tools:** npm, pnpm
 </sub>
 
 ---
 
-### 🛠 DevOps
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,jenkins,ansible,git,github,gitlab" /><br>
+### 🛠 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,jenkins,ansible,git,github,gitlab,vscode,idea,postman,portainer" /><br>
 <sub>
 **OS / Servers:** Linux, Nginx  
-**Containerization & Orchestration:** Docker, Kubernetes  
-**CI/CD & Automation:** Jenkins, Ansible, GitHub Actions, GitLab CI  
+**Containerization / Orchestration:** Docker, Kubernetes, Portainer  
+**CI/CD / Automation:** Jenkins, GitHub Actions, GitLab CI, Webhooks, Ansible  
 **Version Control:** Git, GitHub, GitLab  
-**GitOps & Monitoring:** ArgoCD, SonarQube, Nexus
-</sub>
-
----
-
-### ⚡ Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman" /> 
-<img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" height="40" alt="Swagger logo"/><br>
-<sub>
-**IDEs / Editors:** VSCode, IntelliJ IDEA  
-**Design & Prototyping:** Figma  
-**API Testing / Docs:** Postman, Swagger  
-**Other Tools:** Portainer
+**IDEs / Tools:** VSCode, IntelliJ IDEA, Postman
 </sub>
 
 ---
@@ -72,6 +61,48 @@
 </sub>
 
 </div>
+
+---
+
+<details>
+<summary>🔹 DevOps & Deployment</summary>
+
+- Linux (basic commands, Bash scripting)  
+- Docker, Docker Compose, Docker Registry  
+- Kubernetes, Helm, ArgoCD  
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, Webhooks  
+- Configuration & Automation: Ansible  
+- Monitoring & Quality: SonarQube  
+- Reverse Proxy & Repository Management: Nginx, Nexus  
+
+</details>
+
+<details>
+<summary>🔹 Backend Development</summary>
+
+- Java, Spring Boot (REST API development & deployment)  
+- Database Management: PostgreSQL (Dockerized deployment)  
+- API Testing: Postman, Swagger  
+
+</details>
+
+<details>
+<summary>🔹 Frontend Development</summary>
+
+- HTML, CSS, Bootstrap, Tailwind CSS  
+- JavaScript, React.js, Next.js  
+
+</details>
+
+<details>
+<summary>🔹 Design & Collaboration</summary>
+
+- UI/UX Design: Figma  
+- Prototyping & Wireframing  
+- Graphic Design: Photoshop  
+- Version Control: Git, GitHub, GitLab  
+
+</details>
 
 ---
 
