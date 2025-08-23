@@ -18,10 +18,19 @@
 <h2 align="center">⚒️ Languages-Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,github,git,vite,javascript" />
-    <img src="https://skillicons.dev/icons?i=java,cpp,php,laravel,mysql,spring,postgres,nextjs,prisma" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,vercel,pnpm,npm,postman,notion" /><br>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind" /><br>
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,php,laravel,cpp" /><br>
+  
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,idea,eclipse,postman" /><br>
+  
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,notion,vercel,npm,pnpm" />
 </div>
+
 
 <br/>
 <hr/>
