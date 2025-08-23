@@ -27,7 +27,7 @@
 
 ---
 
-### 💻 Full-Stack
+### 💻 Full-Stack / Programming Languages
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,mysql,postgres" /><br>
 <sub>
 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind  
