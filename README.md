@@ -28,7 +28,7 @@
 ---
 
 ### 💻 Full-Stack / Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,mysql,postgres" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,mysql,postgres,node" /><br>
 <sub>
 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind  
 **Backend:** Java, Spring Boot, Node.js  
@@ -50,11 +50,12 @@
 ---
 
 ### ⚡ Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman" /><br>
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman" /> 
+<img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/dist/favicon-32x32.png" height="40" alt="Swagger logo"/><br>
 <sub>
 **IDEs / Editors:** VSCode, IntelliJ IDEA  
-**Design & Prototyping:** Figma 
-**API Testing:** Postman  
+**Design & Prototyping:** Figma  
+**API Testing / Docs:** Postman, Swagger  
 **Other Tools:** Portainer
 </sub>
 
@@ -71,6 +72,7 @@
 </sub>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
