@@ -65,10 +65,11 @@
 <img src="https://img.shields.io/badge/Nexus-%233FA037.svg?&style=for-the-badge&logo=sonatype&logoColor=white" />
 <img src="https://img.shields.io/badge/SonarQube-%230066CC.svg?&style=for-the-badge&logo=sonarqube&logoColor=white" /><br>
 <sub>
-**ArgoCD:** GitOps deployment  
-**Nexus:** Artifact repository management  
-**SonarQube:** Code quality & static analysis
+**ArgoCD:** VSCode, IntelliJ IDEA  
+**Nexus:** Artifact repository management 
+**SonarQube:** Code quality & static analysis  
 </sub>
+
 </div>
 ---
 
