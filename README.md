@@ -58,6 +58,18 @@
 **Other Tools:** Portainer
 </sub>
 
+---
+
+### ⚡ Extra DevOps / Badges
+<img src="https://img.shields.io/badge/ArgoCD-%230072C6.svg?&style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Nexus-%233FA037.svg?&style=for-the-badge&logo=sonatype&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-%230066CC.svg?&style=for-the-badge&logo=sonarqube&logoColor=white" /><br>
+<sub>
+**ArgoCD:** GitOps deployment  
+**Nexus:** Artifact repository management  
+**SonarQube:** Code quality & static analysis
+</sub>
+
 </div>
 ---
 
