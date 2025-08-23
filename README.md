@@ -21,16 +21,17 @@
 </p>
 
 ---
-<div align="center">
+<h1 align="center">
 ## ⚒️ Languages & Skills ⚒️
-</div>
+</h1>
+
 <div align="center">
 
 <!-- Full-stack -->
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,mysql,postgres,figma,node,npm,pnpm" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,figma,npm,pnpm,java,spring,mysql,postgres,node" /><br>
 
 <!-- DevOps & Tools -->
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,jenkins,ansible,git,github,gitlab,vscode,idea,postman" /><br>
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,jenkins,ansible,git,github,gitlab,vscode,idea,postman,portainer" /><br>
 
 <!-- Extra Badges (not on skillicons) -->
 <img src="https://img.shields.io/badge/ArgoCD-%230072C6.svg?&style=for-the-badge&logo=argo&logoColor=white" />
