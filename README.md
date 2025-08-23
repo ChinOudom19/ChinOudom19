@@ -27,82 +27,38 @@
 
 ---
 
-### 💻 Full-stack / Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,figma,npm,pnpm,java,spring,mysql,postgres,node" /><br>
+### 💻 Full-Stack
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,node,mysql,postgres" /><br>
 <sub>
-**Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind, Figma  
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind  
 **Backend:** Java, Spring Boot, Node.js  
-**Database:** MySQL, PostgreSQL  
-**Package Managers / Tools:** npm, pnpm
+**Database:** MySQL, PostgreSQL
 </sub>
 
 ---
 
-### 🛠 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,jenkins,ansible,git,github,gitlab,vscode,idea,postman,portainer" /><br>
+### 🛠 DevOps
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,jenkins,ansible,git,github,gitlab" /><br>
 <sub>
 **OS / Servers:** Linux, Nginx  
-**Containerization / Orchestration:** Docker, Kubernetes, Portainer  
-**CI/CD / Automation:** Jenkins, GitHub Actions, GitLab CI, Webhooks, Ansible  
+**Containerization & Orchestration:** Docker, Kubernetes  
+**CI/CD & Automation:** Jenkins, Ansible, GitHub Actions, GitLab CI  
 **Version Control:** Git, GitHub, GitLab  
-**IDEs / Tools:** VSCode, IntelliJ IDEA, Postman
+**GitOps & Monitoring:** ArgoCD, SonarQube, Nexus
 </sub>
 
 ---
 
-### ⚡ Extra DevOps / Badges
-<img src="https://img.shields.io/badge/ArgoCD-%230072C6.svg?&style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Nexus-%233FA037.svg?&style=for-the-badge&logo=sonatype&logoColor=white" />
-<img src="https://img.shields.io/badge/SonarQube-%230066CC.svg?&style=for-the-badge&logo=sonarqube&logoColor=white" /><br>
+### ⚡ Tools
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,photoshop" /><br>
 <sub>
-**ArgoCD:** GitOps deployment  
-**Nexus:** Artifact repository management  
-**SonarQube:** Code quality & static analysis
+**IDEs / Editors:** VSCode, IntelliJ IDEA  
+**Design & Prototyping:** Figma, Photoshop  
+**API Testing:** Postman  
+**Other Tools:** Portainer, Swagger
 </sub>
 
 </div>
-
----
-
-<details>
-<summary>🔹 DevOps & Deployment</summary>
-
-- Linux (basic commands, Bash scripting)  
-- Docker, Docker Compose, Docker Registry  
-- Kubernetes, Helm, ArgoCD  
-- CI/CD: Jenkins, GitHub Actions, GitLab CI, Webhooks  
-- Configuration & Automation: Ansible  
-- Monitoring & Quality: SonarQube  
-- Reverse Proxy & Repository Management: Nginx, Nexus  
-
-</details>
-
-<details>
-<summary>🔹 Backend Development</summary>
-
-- Java, Spring Boot (REST API development & deployment)  
-- Database Management: PostgreSQL (Dockerized deployment)  
-- API Testing: Postman, Swagger  
-
-</details>
-
-<details>
-<summary>🔹 Frontend Development</summary>
-
-- HTML, CSS, Bootstrap, Tailwind CSS  
-- JavaScript, React.js, Next.js  
-
-</details>
-
-<details>
-<summary>🔹 Design & Collaboration</summary>
-
-- UI/UX Design: Figma  
-- Prototyping & Wireframing  
-- Graphic Design: Photoshop  
-- Version Control: Git, GitHub, GitLab  
-
-</details>
 
 ---
 
