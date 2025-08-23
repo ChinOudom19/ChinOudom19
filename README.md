@@ -1,7 +1,7 @@
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Latest+Contributions;%24+sudo+apt+update;%24+sudo+apt-get+upgrade">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Latest+Contributions;%24+sudo+apt+update;%24+sudo+apt+upgrade">
   </a>
 </p>
 <!-- Snake Contribution Animation -->
