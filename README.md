@@ -27,17 +27,17 @@
 
 ---
 
-### ​ Full-Stack
+### 💻 Full-Stack
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,java,spring,mysql,postgres" /><br>
 <sub>
 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap, Tailwind  
-**Backend:** Java, Spring Boot ( REST API )  
+**Backend:** Java, Spring Boot, Node.js  
 **Database:** MySQL, PostgreSQL
 </sub>
 
 ---
 
-### ​ DevOps
+### 🛠 DevOps
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,jenkins,ansible,git,github,gitlab" /><br>
 <sub>
 **OS / Servers:** Linux, Nginx  
@@ -49,14 +49,13 @@
 
 ---
 
-###  Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,photoshop" />  
-<img src="https://via.placeholder.com/24/7AC142/000000?text=%7B%7D" alt="Swagger icon" style="vertical-align: middle; margin-left: 8px;"/>  
+### ⚡ Tools
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman" /><br>
 <sub>
 **IDEs / Editors:** VSCode, IntelliJ IDEA  
-**Design & Prototyping:** Figma, Photoshop  
-**API Testing / Documentation:** Postman, Swagger (logo shown)  
-**Other Tools:** Portainer, Swagger (for API design & docs)
+**Design & Prototyping:** Figma 
+**API Testing:** Postman  
+**Other Tools:** Portainer
 </sub>
 
 </div>
