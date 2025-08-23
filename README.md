@@ -28,10 +28,10 @@
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql" /><br>
   
   <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,git,github,vscode,idea,swagger,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=nginx,nexus,sonarqube,docker,kubernetes,jenkins,ansible,git,github,gitlab,vscode,idea,postman" /><br>
   
   <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,npm,pnpm" />
+  <img src="https://skillicons.dev/icons?i=figma,node,npm,pnpm" />
 </div>
 
 
